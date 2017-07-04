@@ -27,9 +27,9 @@
 								<<img src ="../assets/images/book.jpg" alt="book"  style="width:150px;height:200px;">
 								<p><span>ID:</span>${Book.id}</p>
 									
-									<p><span>BookName:</span>${Book.bookname}</p>
-									<p><span>Price:</span>${Book.price}</p>
-									<p><span>view:</span></p>
+									<p><span>BOOKNAME:</span>${Book.bookname}</p>
+									<p><span>PRICE:</span>${Book.price}</p>
+									<p><span>VIEW:</span></p>
 								<div>
 										<button type="btn"><a href="../Book/${Book.id}">ViewDetails</a></button>
 									</div>
